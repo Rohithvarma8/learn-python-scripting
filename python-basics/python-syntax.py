@@ -7,7 +7,7 @@
     This is a multi-line comment
     More About Python:-
         Python is an interpreted language, which means you write code in text files (usually with a .py extension), and the Python interpreter runs your code line by line.
-        A Python script is simply a file containing a series of Python statements. When the script is run, the interpreter processes the code sequentially from top to bottom.
+        A Python script is simply a file containing a series of Python statements. When the script is running, the interpreter processes the code sequentially from top to bottom.
 """
 
 # Printing a String in Python
