@@ -1,0 +1,26 @@
+[
+    {"endpoint": "/api/users", "response_times": [120, 110, 115, 118]},
+    {"endpoint": "/api/products", "response_times": [200, 195, 210, 205]},
+    {"endpoint": "/api/orders", "response_times": [95, 100, 105, 98]},
+    {"endpoint": "/api/reports", "response_times": [100, 310, 305, 290]},
+    {"endpoint": "/api/login", "response_times": [140, 135, 150, 145]},
+    {"endpoint": "/api/logout", "response_times": [90, 88, 85, 89]},
+    {"endpoint": "/api/profile", "response_times": [180, 175, 185, 190]},
+    {"endpoint": "/api/settings", "response_times": [170, 160, 165, 168]},
+    {"endpoint": "/api/dashboard", "response_times": [210, 220, 215, 205]},
+    {"endpoint": "/api/notifications", "response_times": [130, 125, 128, 132]},
+    {"endpoint": "/api/messages", "response_times": [115, 118, 120, 110]},
+    {"endpoint": "/api/analytics", "response_times": [240, 250, 245, 235]},
+    {"endpoint": "/api/inventory", "response_times": [190, 200, 195, 185]},
+    {"endpoint": "/api/shipping", "response_times": [105, 108, 102, 110]},
+    {"endpoint": "/api/payments", "response_times": [260, 270, 255, 265]},
+    {"endpoint": "/api/coupons", "response_times": [160, 165, 162, 158]},
+    {"endpoint": "/api/feedback", "response_times": [125, 130, 128, 132]},
+    {"endpoint": "/api/reviews", "response_times": [150, 145, 148, 155]},
+    {"endpoint": "/api/search", "response_times": [185, 180, 190, 195]},
+    {"endpoint": "/api/tickets", "response_times": [275, 280, 285, 270]},
+    {"endpoint": "/api/backups", "response_times": [275, 280, 285, 270]},
+    {"endpoint": "/api/rohith", "response_times": [275, 280, 285, 270]},
+    {"endpoint": "/api/ups", "response_times": [300, 310, 305, 290]}
+  ]
+  

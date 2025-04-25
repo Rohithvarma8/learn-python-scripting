@@ -1,0 +1,32 @@
+[
+    {
+        "ip": "10.0.0.3",
+        "url": "/api/reports",
+        "response_time": 310
+    },
+    {
+        "ip": "192.168.1.5",
+        "url": "/api/reports",
+        "response_time": 305
+    },
+    {
+        "ip": "192.168.1.5",
+        "url": "/api/products",
+        "response_time": 265
+    },
+    {
+        "ip": "172.16.0.1",
+        "url": "/api/analytics",
+        "response_time": 250
+    },
+    {
+        "ip": "192.168.1.2",
+        "url": "/api/products",
+        "response_time": 240
+    },
+    {
+        "ip": "172.16.0.1",
+        "url": "/api/orders",
+        "response_time": 105
+    }
+]

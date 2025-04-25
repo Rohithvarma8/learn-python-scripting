@@ -1,0 +1,7 @@
+This is a file for person details
+
+details: 
+name = Rohith 
+age = 23 
+nationality = India 
+gender = Male 
