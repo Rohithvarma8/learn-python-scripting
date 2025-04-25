@@ -1,0 +1,36 @@
+[
+    {
+      "ip": "192.168.1.2",
+      "requests": [
+        {"url": "/api/users", "status": 200, "response_time": 120},
+        {"url": "/api/products", "status": 500, "response_time": 240},
+        {"url": "/api/orders", "status": 200, "response_time": 98}
+      ]
+    },
+    {
+      "ip": "10.0.0.3",
+      "requests": [
+        {"url": "/api/users", "status": 200, "response_time": 110},
+        {"url": "/api/products", "status": 200, "response_time": 195},
+        {"url": "/api/reports", "status": 500, "response_time": 310}
+      ]
+    },
+    {
+      "ip": "172.16.0.1",
+      "requests": [
+        {"url": "/api/orders", "status": 500, "response_time": 105},
+        {"url": "/api/users", "status": 200, "response_time": 115},
+        {"url": "/api/analytics", "status": 500, "response_time": 250}
+      ]
+    },
+    {
+      "ip": "192.168.1.5",
+      "requests": [
+        {"url": "/api/products", "status": 500, "response_time": 265},
+        {"url": "/api/reports", "status": 500, "response_time": 305}
+      ]
+    }
+  ]
+  
+
+  

@@ -27,6 +27,7 @@ print(number)
 print(pi)
 # string and variables in a print statement
 print("My name is", name,"and my age is", age)
+print(f"my age is {age}")
 
 # Basic I/O UNCOMMENT THESE
 # user_input = input("Enter a Number: ")
