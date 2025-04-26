@@ -1,0 +1,38 @@
+[
+    {
+      "incident_id": "INC001",
+      "timestamp": "2024-04-24T10:20:30Z",
+      "services_impacted": [
+        {"name": "auth-service", "downtime_minutes": 45},
+        {"name": "billing-service", "downtime_minutes": 20}
+      ],
+      "severity": "high"
+    },
+    {
+      "incident_id": "INC002",
+      "timestamp": "2024-04-24T12:00:00Z",
+      "services_impacted": [
+        {"name": "search-service", "downtime_minutes": 5},
+        {"name": "profile-service", "downtime_minutes": 15}
+      ],
+      "severity": "medium"
+    },
+    {
+      "incident_id": "INC003",
+      "timestamp": "2024-04-24T15:30:00Z",
+      "services_impacted": [
+        {"name": "auth-service", "downtime_minutes": 30},
+        {"name": "notification-service", "downtime_minutes": 10}
+      ],
+      "severity": "critical"
+    },
+    {
+      "incident_id": "INC004",
+      "timestamp": "2024-04-24T18:15:00Z",
+      "services_impacted": [
+        {"name": "billing-service", "downtime_minutes": 25}
+      ],
+      "severity": "low"
+    }
+  ]
+  

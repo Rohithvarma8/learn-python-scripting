@@ -1,0 +1,17 @@
+[
+  {
+    "server_id": "server-004",
+    "service": "nginx",
+    "cpu": 45.8
+  },
+  {
+    "server_id": "server-002",
+    "service": "redis",
+    "cpu": 35.2
+  },
+  {
+    "server_id": "server-004",
+    "service": "postgres",
+    "cpu": 30.4
+  }
+]

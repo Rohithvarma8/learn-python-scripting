@@ -1,0 +1,31 @@
+[
+    {
+      "server_id": "server-001",
+      "services": [
+        {"name": "nginx", "status": "running", "uptime": 123456, "cpu": 25.5},
+        {"name": "mysql", "status": "stopped", "uptime": 0, "cpu": 0.0}
+      ]
+    },
+    {
+      "server_id": "server-002",
+      "services": [
+        {"name": "nginx", "status": "running", "uptime": 654321, "cpu": 15.0},
+        {"name": "redis", "status": "running", "uptime": 50000, "cpu": 35.2}
+      ]
+    },
+    {
+      "server_id": "server-003",
+      "services": [
+        {"name": "mysql", "status": "running", "uptime": 300000, "cpu": 20.1},
+        {"name": "postgres", "status": "stopped", "uptime": 0, "cpu": 0.0}
+      ]
+    },
+    {
+      "server_id": "server-004",
+      "services": [
+        {"name": "nginx", "status": "running", "uptime": 123000, "cpu": 45.8},
+        {"name": "postgres", "status": "running", "uptime": 234000, "cpu": 30.4}
+      ]
+    }
+  ]
+  
