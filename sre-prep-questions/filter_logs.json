@@ -1,0 +1,14 @@
+[
+  {
+    "service": "auth-service",
+    "total_downtime": 75
+  },
+  {
+    "service": "billing-service",
+    "total_downtime": 20
+  },
+  {
+    "service": "notification-service",
+    "total_downtime": 10
+  }
+]
