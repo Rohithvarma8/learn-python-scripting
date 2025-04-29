@@ -1,0 +1,22 @@
+[
+  {
+    "name": "auth-service",
+    "total_downtime": 80,
+    "average_error_rate": 6.0
+  },
+  {
+    "name": "cache-service",
+    "total_downtime": 20,
+    "average_error_rate": 7.5
+  },
+  {
+    "name": "search-service",
+    "total_downtime": 15,
+    "average_error_rate": 0.0
+  },
+  {
+    "name": "payment-service",
+    "total_downtime": 0,
+    "average_error_rate": 0.0
+  }
+]
